@@ -1,2 +1,3 @@
 # hello-world
 Just learning how to use GitHub....
+I love to find new 'stuff' to teach my high school students!
